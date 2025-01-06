@@ -29,10 +29,12 @@
 <br><br>
 
 # 📊 GitHub Stats:
-<div align="center">
+
     
 ![](https://github-readme-stats.vercel.app/api?username=Akshat144&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akshat144&theme=tokyonight&hide_border=true)<br/>
+<div align="center">
+    
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat144&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
