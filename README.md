@@ -66,5 +66,4 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshat-agrawal-b62b8b344) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AgrawalAks41044) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@My-Channel1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aksha_t9039)
 </div>
 
-<div class="tenor-gif-embed" data-postid="16760829579653810809" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809">Text Work Sticker</a>from <a href="https://tenor.com/search/text-stickers">Text Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
