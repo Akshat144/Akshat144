@@ -7,7 +7,7 @@
 🔭 I’m currently studying in Medicaps University.
  <br> <br> <br>
  </span>
- <div align="right">
+ <div >
      
   ![text-work](https://github.com/user-attachments/assets/70175c8f-5ee0-4f32-8169-26f8ae4d658b)
  
