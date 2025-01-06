@@ -2,16 +2,10 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=5&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Akshat+Agrawal" alt="Typing SVG" /></a></h1>
-<h3 align="center">A passionate student who is driven by the desire to create a meaningful impact.</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently studying in Medicaps University.
- 
- 🌱 I’m currently learning **Java**
-
+ 💫 About Me:
+👋 Hi, I'm Akshat, a passionate student and aspiring AI engineer with a love for coding and problem-solving.<br>🚀 Currently diving deep into HTML, CSS, and JavaScript to build impactful web projects.<br>🌱 I'm always learning and improving, striving to revolutionize the AI industry.<br>📈 Let's collaborate and create something awesome together!<br>
+🔭 I’m currently studying in Medicaps University.
+ <br> <br> <br>
  </div>
  
 <div align="center"> 
@@ -25,9 +19,8 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<br>
 
- <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="52" alt="javascript logo"  />
@@ -45,10 +38,20 @@
 <br>
 <br><br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Akshat144&theme=merko&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Akshat144&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat144&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Akshat144&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Akshat144&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat144&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /><br><br><p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat144&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</p></div>
+ 
 <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
