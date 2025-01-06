@@ -54,5 +54,6 @@
 <div align="center">
  
 <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+
+![snake gif](https://github.com/Akshat144/Akshat144/blob/output/github-snake-dark.svg)
 
