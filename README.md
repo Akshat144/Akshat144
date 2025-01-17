@@ -60,9 +60,13 @@
 <div align="center"> 
     <br><br><br>
     
- ## 🌐 Socials:
+ ## 🌐 
     
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/akshat-agrawal-b62b8b344](https://www.linkedin.com/in/ak-a-b62b8b344/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AgrawalAks41044) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@My-Channel1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aksha_t9039)
+<div align="center">
+    <a href="https://www.linkedin.com/in/ak-a-b62b8b344/">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  ></a>
 </div>
+
+###
 
 
