@@ -3,7 +3,7 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=5&center=true&vCenter=true&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Akshat+Agrawal" alt="Typing SVG" /></a></h1>
  <span>
-👋 Hi, I'm Akshat, a passionate student and aspiring AI engineer with a love for coding and problem-solving.<br>🚀 Currently diving deep into HTML, CSS, and JavaScript to build impactful web projects.<br>🌱 I'm always learning and improving, striving to revolutionize the AI industry.<br>📈 Let's collaborate and create something awesome together!<br>
+👋 Hi, I'm Akshat, a passionate student and aspiring AI engineer with a love for coding and problem-solving.<br>🚀 Currently diving deep into Java, Python, and AI to build impactful projects.<br>🌱 I'm always learning and improving, striving to revolutionize the AI industry.<br>📈 Let's collaborate and create something awesome together!<br>
 🔭 I’m currently studying in Medicaps University.
  <br> <br> <br>
  </span>
