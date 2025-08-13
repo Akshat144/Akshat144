@@ -37,11 +37,6 @@
 
     
 ![](https://github-readme-stats.vercel.app/api?username=Akshat144&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Akshat144&theme=tokyonight&hide_border=true)<br/>
-
-    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat144&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 
 
 ## 🏆 GitHub Trophies
@@ -63,11 +58,15 @@
     
  ## 🌐 
     
-<div align="center">
-    <a href="https://www.linkedin.com/in/ak-a-b62b8b344/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  ></a>
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/akshat-a-b62b8b344/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  >
+  </a>
+  <a href="https://linktr.ee/Akshat144">
+    <img src="https://play-lh.googleusercontent.com/x3Kpw4L_-miSO6eumND8Az4ltZ2Ype6vSrJeJJW44Jugzn8KuKXaqsu_E_Zjx0Db5Hw=w240-h480-rw" width="52" height="40" alt="linkedin logo"  >
+  </a>
 </div>
 
-###
+
 
 
