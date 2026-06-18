@@ -41,6 +41,11 @@ akshat@dev:~$ ./run.sh --mode=collaborate
 </div>
 
 <br>
+<h2 align="center">🗓️ contribution_calendar --render</h2>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/39FF14/Akshat144" alt="Akshat's contribution graph" />
+</div>
 
 <h2 align="center">📊 system_stats --user akshat</h2>
 
