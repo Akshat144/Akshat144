@@ -59,10 +59,20 @@ akshat@dev:~$ ./run.sh --mode=collaborate
 
 <br>
 
-<h2 align="center">📈 commit_history --visualize</h2>
+<h2 align="center">🔥 commit_streak --status</h2>
 
 <div align="center">
-  <img src="https://github.com/Akshat144/Akshat144/blob/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat144&theme=highcontrast&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+</div>
+
+<br>
+
+<h2 align="center">📡 currently_learning --watch</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=600&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+Neural+Networks;Natural+Language+Processing;LangChain+%2B+RAG+Pipelines;MLOps+%26+Model+Deployment;Advanced+Java+Design+Patterns" alt="Currently Learning Typing SVG" />
+
 </div>
 
 <br>
