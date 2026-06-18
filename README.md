@@ -85,8 +85,6 @@ akshat@dev:~$ ./run.sh --mode=collaborate
 akshat@dev:~$ tail -f visitors.log
 ```
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Akshat144&icon=0&color=2)
-
 <sub>// compiling new ideas... thanks for stopping by 👨‍💻</sub>
 
 </div>
