@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=root%40akshat%3A~%24+whoami;Akshat+Agrawal;AI+Engineer+in+training...;Status%3A+Online+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=root%40akshat%3A~%24+whoami;Akshat+Agrawal;AI+Engineer+in+training...;Status%3A+Online+%F0%9F%9F%A2" alt="Typing SVG" />
 
 </div>
 
@@ -51,27 +51,13 @@ akshat@dev:~$ ./run.sh --mode=collaborate
 
 <br>
 
-<h2 align="center">🏆 achievements --unlocked</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshat144&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</div>
-
-<br>
-
-<h2 align="center">🔥 commit_streak --status</h2>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat144&theme=highcontrast&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-</div>
-
-<br>
 
 <h2 align="center">📡 currently_learning --watch</h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=600&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+Neural+Networks;Natural+Language+Processing;LangChain+%2B+RAG+Pipelines;MLOps+%26+Model+Deployment;Advanced+Java+Design+Patterns" alt="Currently Learning Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=600&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=Deep+Learning+%26+Neural+Networks;Natural+Language+Processing;LangChain+%2B+RAG+Pipelines;MLOps+%26+Model+Deployment;Advanced+Java+Design+Patterns" alt="Currently Learning Typing SVG" />
 
 </div>
 
