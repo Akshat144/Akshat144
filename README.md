@@ -41,18 +41,7 @@ akshat@dev:~$ ./run.sh --mode=collaborate
 </div>
 
 <br>
-<h2 align="center">🗓️ contribution_calendar --render</h2>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/39FF14/Akshat144" alt="Akshat's contribution graph" />
-</div>
-
-<h2 align="center">📊 system_stats --user akshat</h2>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshat144&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat144&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
-</div>
 
 <br>
 
@@ -85,6 +74,6 @@ akshat@dev:~$ ./run.sh --mode=collaborate
 akshat@dev:~$ tail -f visitors.log
 ```
 
-<sub>// compiling new ideas... thanks for stopping by 👨‍💻</sub>
+<sub>// compiling new ideas.</sub>
 
 </div>
