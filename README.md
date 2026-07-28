@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Akshat%20Agrawal&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:991B1B,100:78350F&height=230&section=header&text=Akshat%20Agrawal&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=import+langchain+as+lc;Building+RAG+pipelines+that+actually+retrieve;agent.run(%22automate+everything%22)%3B;Python+%7C+LLMs+%7C+Multi-Agent+Systems;print(%22Hello%2C+World%22)" alt="Typing SVG" />
 
@@ -169,6 +169,6 @@ def deploy_agent():
 **Open to Python / AI internships and interesting problems.**
 **Let's build something →** [aakshat4444@gmail.com](mailto:aakshat4444@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:991B1B,100:78350F&height=120&section=footer" width="100%"/>
 
 </div>
