@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:991B1B,100:78350F&height=230&section=header&text=Akshat%20Agrawal&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=import+langchain+as+lc;Building+RAG+pipelines+that+actually+retrieve;agent.run(%22automate+everything%22)%3B;Python+%7C+LLMs+%7C+Multi-Agent+Systems;print(%22Hello%2C+World%22)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=white&center=true&vCenter=true&width=650&lines=import+langchain+as+lc;Building+RAG+pipelines+that+actually+retrieve;agent.run(%22automate+everything%22)%3B;Python+%7C+LLMs+%7C+Multi-Agent+Systems;print(%22Hello%2C+World%22)" alt="Typing SVG" />
 
 <br/>
 
@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakshat4444@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshat144)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akshat144&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Akshat144&color=991B1B&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -136,9 +136,8 @@ status:    shipping AI agents
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat144&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat144&theme=tokyo-night&hide_border=true" width="98%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat144&theme=dracula&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat144&theme=dracula&hide_border=true" width="98%"/>
 
 </div>
 
