@@ -79,53 +79,50 @@ status:    shipping AI agents
 
 ---
 
-## Featured Builds
+## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<details open>
-<summary><b>📡 Telecom Support RAG Assistant</b> — real-time retrieval over technical alarm logs</summary>
-<br/>
+### 📡 [Telecom Support RAG Assistant](https://github.com/Akshat144/Telecom-Support-RAG-Assistant)
+> A RAG agent built to stop engineers from digging through raw alarm logs by hand — real-time retrieval over technical alarm logs, improving accuracy by 35% and cutting manual data-mapping time by 50%.
 
 `Python` `LangChain` `Vector Databases` `LLMs` `Streamlit`
 
-> A RAG agent built to stop engineers from digging through raw alarm logs by hand.
+🔗 [Live App](https://telecom-support-rag-assistant-jshmssimurx7uv77s3ct3p.streamlit.app/)
 
-- Real-time retrieval over complex datasets, improving retrieval accuracy by 35% vs. standard LLM queries
-- Dynamically processes and categorizes technical alarm logs, cutting manual data-mapping time by 50%
-- Tuned for high-precision responses on time-critical system alerts
+</td>
+<td width="50%" valign="top">
 
-**[GitHub](https://github.com/Akshat144/Telecom-Support-RAG-Assistant)** · **[Live App](https://telecom-support-rag-assistant-jshmssimurx7uv77s3ct3p.streamlit.app/)**
-
-</details>
-
-<details>
-<summary><b>🤖 EduAgent</b> — multi-agent AI interview preparation platform</summary>
-<br/>
+### 🤖 [EduAgent](https://github.com/Akshat144/Edu-Agent)
+> Multi-agent AI interview prep platform simulating realistic HR and technical rounds with adaptive feedback — cut prep time by 40% and generated 50+ ATS-optimized resumes.
 
 `Python` `Streamlit` `Gemini API` `Multi-Agent Systems`
 
-> Simulates realistic HR and technical interview rounds with adaptive feedback, so the first tough question you face isn't in the actual interview.
+🔗 [Live App](https://ai-projects-c6nshazm99p5xquumf8mks.streamlit.app/)
 
-- Multi-agent system cut interview prep time by 40% via dynamic, adaptive scenario simulation
-- Deployed Streamlit interface held 99% uptime while generating 50+ ATS-optimized resumes for peer evaluations
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**[GitHub](https://github.com/Akshat144/Edu-Agent)** · **[Live App](https://ai-projects-c6nshazm99p5xquumf8mks.streamlit.app/)**
-
-</details>
-
-<details>
-<summary><b>📈 Binance Futures Trading Bot</b> — CLI trading, with validation that actually validates</summary>
-<br/>
+### 📈 [Binance Futures Trading Bot](https://github.com/Akshat144/AI-TRADING-BOT)
+> Modular CLI trading app for Binance Futures Testnet, built so a bad order never reaches the exchange — validation layer caught 100% of invalid orders pre-transmission, cutting API overhead by 25%.
 
 `Python` `python-binance` `Typer` `Rich`
 
-> A modular command-line trading app for the Binance Futures Testnet — built so a bad order never reaches the exchange.
+</td>
+<td width="50%" valign="top">
 
-- Programmatically executes Market and Limit orders on Binance Futures Testnet (USDT-M)
-- Client-side validation layer using Typer + structural type hints caught 100% of invalid order parameters pre-transmission, cutting redundant API overhead by 25%
+### 🌱 [InAmigos Foundation Website](https://in-amigos-website-sigma.vercel.app/)
+> An immersive storytelling website that turns a nonprofit's impact into an interactive journey — a side-scrolling experience where every milestone represents a real initiative.
 
-**[GitHub](https://github.com/Akshat144/AI-TRADING-BOT)**
+`Next.js 16` `React 19` `TypeScript` `Tailwind CSS` `Lucide React`
 
-</details>
+🔗 [Live App](https://in-amigos-website-sigma.vercel.app/)
+</td>
+</tr>
+</table>
 
 ---
 
