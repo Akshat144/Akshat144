@@ -133,7 +133,7 @@ status:    shipping AI agents
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat144&theme=dracula&hide_border=true" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat144&theme=dracula&hide_border=true" width="98%"/>
 
 </div>
