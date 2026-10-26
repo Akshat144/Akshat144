@@ -126,17 +126,11 @@ status:    shipping AI agents
 
 ---
 
-## By the Numbers
-
-<div align="center">
 
 
 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat144&theme=dracula&hide_border=true" width="98%"/>
-
-</div>
 
 ---
 
